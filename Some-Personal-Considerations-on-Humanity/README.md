@@ -17,8 +17,6 @@ Más allá de la manzana, del alimento vegetal o la proteína animal, lo que sie
 
 ![Duelo a garrotazos - Francisco de Goya](./duelo.png)
 
-<p align="center"><em>Francisco de Goya, “Duelo a garrotazos” (ca. 1820–1823). Museo del Prado, Madrid. Imagen de dominio público.</em></p>
-
 Ahora bien, es cierto que ese podría representar nuestro peor pecado, aunque no deja de ser un juicio moral humano. Es muy probable —o al menos así lo considero— que si se ha desarrollado vida en otros planetas y ha florecido una civilización por encima de otros seres, las cosas hayan transcurrido por derroteros similares.  
 
 La balanza de la justicia está en nuestra mente, nada más. Y sin embargo, sin moral —del tipo que sea— creo que sería prácticamente imposible que sobreviviera una civilización inteligente. Solo tienes que mirar a tu alrededor para darte cuenta de que todo lo que existe sigue determinados parámetros de correlación: el mundo fractal.  
