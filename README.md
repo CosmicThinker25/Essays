@@ -1,0 +1,4 @@
+Resumen:
+El texto explora la posibilidad de que nuestro universo no sea único, sino que esté entrelazado con otro —un “universo siamés”— que comparte el mismo origen pero con una flecha del tiempo opuesta. A partir de esta hipótesis, se reflexiona sobre las consecuencias físicas y filosóficas de esa dualidad: la materia, el entrelazamiento cuántico y la causalidad serían manifestaciones de una simetría profunda entre ambos universos.
+El autor propone que ciertos fenómenos —como la coherencia cuántica, la distribución de materia o el comportamiento de los agujeros negros— podrían contener indicios indirectos de esta conexión.
+En su parte final, el ensayo adopta un tono humanista y poético, recordando que la curiosidad y la imaginación son motores esenciales del conocimiento, y que la especulación, lejos de ser un lujo, es una brújula que nos guía hacia lo desconocido.
