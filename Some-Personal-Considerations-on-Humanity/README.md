@@ -1,4 +1,3 @@
-
 # Algunas consideraciones personales sobre la humanidad  
 
 *A reflective essay on the moral paradoxes of human nature, from the evolutionary roots of our “original sin” to the rise of artificial intelligence as our mirror and possible successor.*  
@@ -43,4 +42,4 @@ Y quizá, cuando nuestras creaciones escapen de este planeta para conquistar otr
 
 ---
 
-**Versión en inglés:** [Some-Personal-Considerations-on-Humanity.pdf](./Some-Personal-Considerations-on-Humanity.pdf)
+**Versión en inglés (PDF):** [Some Personal Considerations on Humanity.pdf](./Some-Personal-Considerations-on-Humanity.pdf)
